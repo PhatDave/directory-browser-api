@@ -1,0 +1,8607 @@
+{
+	"adn": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"accdb": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"accdr": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"accdt": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"accda": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"mdw": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"accde": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"mam": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"maq": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"mar": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"mat": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"maf": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"laccdb": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"access": {
+		"name": "file_type_access",
+		"color": "red",
+		"extensions": [
+			"adn",
+			"accdb",
+			"accdr",
+			"accdt",
+			"accda",
+			"mdw",
+			"accde",
+			"mam",
+			"maq",
+			"mar",
+			"mat",
+			"maf",
+			"laccdb",
+			"access"
+		]
+	},
+	"actionscript": {
+		"name": "file_type_actionscript",
+		"color": "red",
+		"extensions": [
+			"actionscript"
+		]
+	},
+	"ada": {
+		"name": "file_type_ada",
+		"color": "red",
+		"extensions": [
+			"ada",
+			"adb",
+			"ads"
+		]
+	},
+	"adb": {
+		"name": "file_type_ada",
+		"color": "red",
+		"extensions": [
+			"ada",
+			"adb",
+			"ads"
+		]
+	},
+	"ads": {
+		"name": "file_type_ada",
+		"color": "red",
+		"extensions": [
+			"ada",
+			"adb",
+			"ads"
+		]
+	},
+	"edge": {
+		"name": "file_type_adonisjs",
+		"color": "purple",
+		"extensions": [
+			"edge"
+		]
+	},
+	"aep": {
+		"name": "file_type_ae",
+		"color": "purple",
+		"extensions": [
+			"aep",
+			"aet",
+			"ae"
+		]
+	},
+	"aet": {
+		"name": "file_type_ae",
+		"color": "purple",
+		"extensions": [
+			"aep",
+			"aet",
+			"ae"
+		]
+	},
+	"ae": {
+		"name": "file_type_ae",
+		"color": "purple",
+		"extensions": [
+			"aep",
+			"aet",
+			"ae"
+		]
+	},
+	"ai": {
+		"name": "file_type_ai",
+		"color": "orange",
+		"extensions": [
+			"ai"
+		]
+	},
+	"html": {
+		"name": "file_type_angular",
+		"color": "red",
+		"extensions": [
+			"html",
+			"angularjs",
+			"ngx"
+		]
+	},
+	"angularjs": {
+		"name": "file_type_angular",
+		"color": "red",
+		"extensions": [
+			"html",
+			"angularjs",
+			"ngx"
+		]
+	},
+	"ngx": {
+		"name": "file_type_angular",
+		"color": "red",
+		"extensions": [
+			"html",
+			"angularjs",
+			"ngx"
+		]
+	},
+	"CONF": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"envvars": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"htaccess": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"HTACCESS": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"htgroups": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"HTGROUPS": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"htpasswd": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"HTPASSWD": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"apacheconf": {
+		"name": "file_type_apache",
+		"color": "yellow",
+		"extensions": [
+			"CONF",
+			"envvars",
+			"htaccess",
+			"HTACCESS",
+			"htgroups",
+			"HTGROUPS",
+			"htpasswd",
+			"HTPASSWD",
+			"apacheconf"
+		]
+	},
+	"applescript": {
+		"name": "file_type_applescript",
+		"color": "graphite",
+		"extensions": [
+			"applescript"
+		]
+	},
+	"7z": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"7zip": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"gz": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"pzip": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"rar": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"saz": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"tar": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"tgz": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"wim": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"zip": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"archive": {
+		"name": "file_type_archive",
+		"color": "graphite",
+		"extensions": [
+			"7z",
+			"7zip",
+			"gz",
+			"pzip",
+			"rar",
+			"saz",
+			"tar",
+			"tgz",
+			"wim",
+			"zip",
+			"archive"
+		]
+	},
+	"ino": {
+		"name": "file_type_arduino",
+		"color": "cyan",
+		"extensions": [
+			"ino",
+			"pde",
+			"arduino"
+		]
+	},
+	"pde": {
+		"name": "file_type_arduino",
+		"color": "cyan",
+		"extensions": [
+			"ino",
+			"pde",
+			"arduino"
+		]
+	},
+	"arduino": {
+		"name": "file_type_arduino",
+		"color": "cyan",
+		"extensions": [
+			"ino",
+			"pde",
+			"arduino"
+		]
+	},
+	"astro": {
+		"name": "file_type_astro",
+		"color": "graphite",
+		"extensions": [
+			"astro"
+		]
+	},
+	"mp3": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"m4p": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"aac": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"aiff": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"au": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"flac": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"m4a": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"mpc": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"mp+": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"mpp": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"oga": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"opus": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"ra": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"rm": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"wav": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"wma": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"audio": {
+		"name": "file_type_audio",
+		"color": "red",
+		"extensions": [
+			"mp3",
+			"m4p",
+			"aac",
+			"aiff",
+			"au",
+			"flac",
+			"m4a",
+			"mpc",
+			"mp+",
+			"mpp",
+			"oga",
+			"opus",
+			"ra",
+			"rm",
+			"wav",
+			"wma",
+			"audio"
+		]
+	},
+	"babelrc": {
+		"name": "file_type_babel",
+		"color": "yellow",
+		"extensions": [
+			"babelrc",
+			"babel"
+		]
+	},
+	"babel": {
+		"name": "file_type_babel",
+		"color": "yellow",
+		"extensions": [
+			"babelrc",
+			"babel"
+		]
+	},
+	"BUILD": {
+		"name": "file_type_bazel",
+		"color": "green",
+		"extensions": [
+			"BUILD",
+			"WORKSPACE",
+			"bazel",
+			"bzl"
+		]
+	},
+	"WORKSPACE": {
+		"name": "file_type_bazel",
+		"color": "green",
+		"extensions": [
+			"BUILD",
+			"WORKSPACE",
+			"bazel",
+			"bzl"
+		]
+	},
+	"bazel": {
+		"name": "file_type_bazel",
+		"color": "green",
+		"extensions": [
+			"BUILD",
+			"WORKSPACE",
+			"bazel",
+			"bzl"
+		]
+	},
+	"bzl": {
+		"name": "file_type_bazel",
+		"color": "green",
+		"extensions": [
+			"BUILD",
+			"WORKSPACE",
+			"bazel",
+			"bzl"
+		]
+	},
+	"exe": {
+		"name": "file_type_binary",
+		"color": "graphite",
+		"extensions": [
+			"exe",
+			"dll",
+			"bak"
+		]
+	},
+	"dll": {
+		"name": "file_type_binary",
+		"color": "graphite",
+		"extensions": [
+			"exe",
+			"dll",
+			"bak"
+		]
+	},
+	"bak": {
+		"name": "file_type_binary",
+		"color": "graphite",
+		"extensions": [
+			"exe",
+			"dll",
+			"bak"
+		]
+	},
+	"bin": {
+		"name": "file_type_binary",
+		"color": "graphite",
+		"extensions": [
+			"bin",
+			"db"
+		]
+	},
+	"db": {
+		"name": "file_type_binary",
+		"color": "graphite",
+		"extensions": [
+			"bin",
+			"db"
+		]
+	},
+	"blade": {
+		"name": "file_type_blade",
+		"color": "orange",
+		"extensions": [
+			"blade"
+		]
+	},
+	"blend": {
+		"name": "file_type_blender",
+		"color": "orange",
+		"extensions": [
+			"blend",
+			"blend1",
+			"blend2",
+			"blend3",
+			"blender"
+		]
+	},
+	"blend1": {
+		"name": "file_type_blender",
+		"color": "orange",
+		"extensions": [
+			"blend",
+			"blend1",
+			"blend2",
+			"blend3",
+			"blender"
+		]
+	},
+	"blend2": {
+		"name": "file_type_blender",
+		"color": "orange",
+		"extensions": [
+			"blend",
+			"blend1",
+			"blend2",
+			"blend3",
+			"blender"
+		]
+	},
+	"blend3": {
+		"name": "file_type_blender",
+		"color": "orange",
+		"extensions": [
+			"blend",
+			"blend1",
+			"blend2",
+			"blend3",
+			"blender"
+		]
+	},
+	"blender": {
+		"name": "file_type_blender",
+		"color": "orange",
+		"extensions": [
+			"blend",
+			"blend1",
+			"blend2",
+			"blend3",
+			"blender"
+		]
+	},
+	"bowerrc": {
+		"name": "file_type_bower",
+		"color": "yellow",
+		"extensions": [
+			"bowerrc",
+			"bower"
+		]
+	},
+	"bower": {
+		"name": "file_type_bower",
+		"color": "yellow",
+		"extensions": [
+			"bowerrc",
+			"bower"
+		]
+	},
+	"cabal": {
+		"name": "file_type_cabal",
+		"color": "blue",
+		"extensions": [
+			"cabal",
+			"project"
+		]
+	},
+	"project": {
+		"name": "file_type_cabal",
+		"color": "blue",
+		"extensions": [
+			"cabal",
+			"project"
+		]
+	},
+	"c": {
+		"name": "file_type_c",
+		"color": "purple",
+		"extensions": [
+			"c",
+			"objc"
+		]
+	},
+	"objc": {
+		"name": "file_type_c",
+		"color": "purple",
+		"extensions": [
+			"c",
+			"objc"
+		]
+	},
+	"cfc": {
+		"name": "file_type_cf",
+		"color": "cyan",
+		"extensions": [
+			"cfc",
+			"cfm",
+			"cfml"
+		]
+	},
+	"cfm": {
+		"name": "file_type_cf",
+		"color": "cyan",
+		"extensions": [
+			"cfc",
+			"cfm",
+			"cfml"
+		]
+	},
+	"cfml": {
+		"name": "file_type_cf",
+		"color": "cyan",
+		"extensions": [
+			"cfc",
+			"cfm",
+			"cfml"
+		]
+	},
+	"circleci": {
+		"name": "file_type_circleci",
+		"color": "graphite",
+		"extensions": [
+			"circleci"
+		]
+	},
+	"clojure": {
+		"name": "file_type_clojure",
+		"color": "purple",
+		"extensions": [
+			"clojure"
+		]
+	},
+	"cmake": {
+		"name": "file_type_cmake",
+		"color": "blue",
+		"extensions": [
+			"cmake",
+			"cmakeeditor"
+		]
+	},
+	"cmakeeditor": {
+		"name": "file_type_cmake",
+		"color": "blue",
+		"extensions": [
+			"cmake",
+			"cmakeeditor"
+		]
+	},
+	"ccp": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"scbl": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"cbl": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"cpy": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"cob": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"dds": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"wks": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"pco": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"cobol": {
+		"name": "file_type_cobol",
+		"color": "cyan",
+		"extensions": [
+			"ccp",
+			"scbl",
+			"cbl",
+			"cpy",
+			"cob",
+			"dds",
+			"wks",
+			"pco",
+			"cobol"
+		]
+	},
+	"coffee": {
+		"name": "file_type_coffeescript",
+		"color": "orange",
+		"extensions": [
+			"coffee",
+			"Cakefile",
+			"cson",
+			"cjsx"
+		]
+	},
+	"Cakefile": {
+		"name": "file_type_coffeescript",
+		"color": "orange",
+		"extensions": [
+			"coffee",
+			"Cakefile",
+			"cson",
+			"cjsx"
+		]
+	},
+	"cson": {
+		"name": "file_type_coffeescript",
+		"color": "orange",
+		"extensions": [
+			"coffee",
+			"Cakefile",
+			"cson",
+			"cjsx"
+		]
+	},
+	"cjsx": {
+		"name": "file_type_coffeescript",
+		"color": "orange",
+		"extensions": [
+			"coffee",
+			"Cakefile",
+			"cson",
+			"cjsx"
+		]
+	},
+	"composer": {
+		"name": "file_type_composer",
+		"color": "orange",
+		"extensions": [
+			"composer"
+		]
+	},
+	"cb": {
+		"name": "file_type_coreboot",
+		"color": "sky",
+		"extensions": [
+			"cb"
+		]
+	},
+	"cottle": {
+		"name": "file_type_cottle",
+		"color": "orange",
+		"extensions": [
+			"cottle"
+		]
+	},
+	"c++": {
+		"name": "file_type_cpp",
+		"color": "sky",
+		"extensions": [
+			"c++",
+			"objc++"
+		]
+	},
+	"objc++": {
+		"name": "file_type_cpp",
+		"color": "sky",
+		"extensions": [
+			"c++",
+			"objc++"
+		]
+	},
+	"h": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"h++": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"hh": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"hpp": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"hxx": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"header": {
+		"name": "file_type_cppheader",
+		"color": "sky",
+		"extensions": [
+			"h",
+			"h++",
+			"hh",
+			"hpp",
+			"hxx",
+			"header"
+		]
+	},
+	"cr": {
+		"name": "file_type_crystal",
+		"color": "graphite",
+		"extensions": [
+			"cr",
+			"crystal"
+		]
+	},
+	"crystal": {
+		"name": "file_type_crystal",
+		"color": "graphite",
+		"extensions": [
+			"cr",
+			"crystal"
+		]
+	},
+	"cs": {
+		"name": "file_type_csharp",
+		"color": "blue",
+		"extensions": [
+			"cs"
+		]
+	},
+	"css": {
+		"name": "file_type_css",
+		"color": "blue",
+		"extensions": [
+			"css"
+		]
+	},
+	"advanced_csv": {
+		"name": "file_type_csv",
+		"color": "green",
+		"extensions": [
+			"advanced_csv"
+		]
+	},
+	"pyx": {
+		"name": "file_type_cython",
+		"color": "yellow",
+		"extensions": [
+			"pyx",
+			"pxi",
+			"pxd",
+			"cython"
+		]
+	},
+	"pxi": {
+		"name": "file_type_cython",
+		"color": "yellow",
+		"extensions": [
+			"pyx",
+			"pxi",
+			"pxd",
+			"cython"
+		]
+	},
+	"pxd": {
+		"name": "file_type_cython",
+		"color": "yellow",
+		"extensions": [
+			"pyx",
+			"pxi",
+			"pxd",
+			"cython"
+		]
+	},
+	"cython": {
+		"name": "file_type_cython",
+		"color": "yellow",
+		"extensions": [
+			"pyx",
+			"pxi",
+			"pxd",
+			"cython"
+		]
+	},
+	"cad": {
+		"name": "file_type_cad",
+		"color": "orange",
+		"extensions": [
+			"cad",
+			"stl",
+			"stp",
+			"step",
+			"wrl"
+		]
+	},
+	"stl": {
+		"name": "file_type_cad",
+		"color": "orange",
+		"extensions": [
+			"cad",
+			"stl",
+			"stp",
+			"step",
+			"wrl"
+		]
+	},
+	"stp": {
+		"name": "file_type_cad",
+		"color": "orange",
+		"extensions": [
+			"cad",
+			"stl",
+			"stp",
+			"step",
+			"wrl"
+		]
+	},
+	"step": {
+		"name": "file_type_cad",
+		"color": "orange",
+		"extensions": [
+			"cad",
+			"stl",
+			"stp",
+			"step",
+			"wrl"
+		]
+	},
+	"wrl": {
+		"name": "file_type_cad",
+		"color": "orange",
+		"extensions": [
+			"cad",
+			"stl",
+			"stp",
+			"step",
+			"wrl"
+		]
+	},
+	"Caddyfile": {
+		"name": "file_type_caddy",
+		"color": "blue",
+		"extensions": [
+			"Caddyfile"
+		]
+	},
+	"dart": {
+		"name": "file_type_dart",
+		"color": "cyan",
+		"extensions": [
+			"dart"
+		]
+	},
+	"pascal": {
+		"name": "file_type_delphi",
+		"color": "red",
+		"extensions": [
+			"pascal"
+		]
+	},
+	"default": {
+		"name": "file_type_default",
+		"color": "gray"
+	},
+	"directory": {
+		"name": "file_type_directory",
+		"color": "gray"
+	},
+	"diff": {
+		"name": "file_type_diff",
+		"color": "yellow",
+		"extensions": [
+			"diff"
+		]
+	},
+	"d": {
+		"name": "file_type_dlang",
+		"color": "red",
+		"extensions": [
+			"d"
+		]
+	},
+	"Dockerfile": {
+		"name": "file_type_docker",
+		"color": "sky",
+		"extensions": [
+			"Dockerfile",
+			"dockerfile"
+		]
+	},
+	"dockerfile": {
+		"name": "file_type_docker",
+		"color": "sky",
+		"extensions": [
+			"Dockerfile",
+			"dockerfile"
+		]
+	},
+	"asp": {
+		"name": "file_type_dotnet",
+		"color": "cyan",
+		"extensions": [
+			"asp"
+		]
+	},
+	"editorconfig": {
+		"name": "file_type_editorconfig",
+		"color": "yellow",
+		"extensions": [
+			"editorconfig"
+		]
+	},
+	"ejs": {
+		"name": "file_type_ejs",
+		"color": "green",
+		"extensions": [
+			"ejs"
+		]
+	},
+	"elm": {
+		"name": "file_type_elm",
+		"color": "cyan",
+		"extensions": [
+			"elm"
+		]
+	},
+	"em": {
+		"name": "file_type_ember",
+		"color": "green",
+		"extensions": [
+			"em",
+			"erb",
+			"ember",
+			"emberscript"
+		]
+	},
+	"erb": {
+		"name": "file_type_ember",
+		"color": "green",
+		"extensions": [
+			"em",
+			"erb",
+			"ember",
+			"emberscript"
+		]
+	},
+	"ember": {
+		"name": "file_type_ember",
+		"color": "green",
+		"extensions": [
+			"em",
+			"erb",
+			"ember",
+			"emberscript"
+		]
+	},
+	"emberscript": {
+		"name": "file_type_ember",
+		"color": "green",
+		"extensions": [
+			"em",
+			"erb",
+			"ember",
+			"emberscript"
+		]
+	},
+	"erlang": {
+		"name": "file_type_erlang",
+		"color": "red",
+		"extensions": [
+			"erlang"
+		]
+	},
+	"eslintrc": {
+		"name": "file_type_eslint",
+		"color": "purple",
+		"extensions": [
+			"eslintrc",
+			"eslintignore",
+			"eslintcache",
+			"eslint"
+		]
+	},
+	"eslintignore": {
+		"name": "file_type_eslint",
+		"color": "purple",
+		"extensions": [
+			"eslintrc",
+			"eslintignore",
+			"eslintcache",
+			"eslint"
+		]
+	},
+	"eslintcache": {
+		"name": "file_type_eslint",
+		"color": "purple",
+		"extensions": [
+			"eslintrc",
+			"eslintignore",
+			"eslintcache",
+			"eslint"
+		]
+	},
+	"eslint": {
+		"name": "file_type_eslint",
+		"color": "purple",
+		"extensions": [
+			"eslintrc",
+			"eslintignore",
+			"eslintcache",
+			"eslint"
+		]
+	},
+	"ex": {
+		"name": "file_type_ex",
+		"color": "purple",
+		"extensions": [
+			"ex",
+			"exs",
+			"eex",
+			"leex",
+			"elixir"
+		]
+	},
+	"exs": {
+		"name": "file_type_ex",
+		"color": "purple",
+		"extensions": [
+			"ex",
+			"exs",
+			"eex",
+			"leex",
+			"elixir"
+		]
+	},
+	"eex": {
+		"name": "file_type_ex",
+		"color": "purple",
+		"extensions": [
+			"ex",
+			"exs",
+			"eex",
+			"leex",
+			"elixir"
+		]
+	},
+	"leex": {
+		"name": "file_type_ex",
+		"color": "purple",
+		"extensions": [
+			"ex",
+			"exs",
+			"eex",
+			"leex",
+			"elixir"
+		]
+	},
+	"elixir": {
+		"name": "file_type_ex",
+		"color": "purple",
+		"extensions": [
+			"ex",
+			"exs",
+			"eex",
+			"leex",
+			"elixir"
+		]
+	},
+	"xls": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"xlsx": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"xlsm": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"xlsb": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"xlt": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"excel": {
+		"name": "file_type_excel",
+		"color": "green",
+		"extensions": [
+			"xls",
+			"xlsx",
+			"xlsm",
+			"xlsb",
+			"xlt",
+			"excel"
+		]
+	},
+	"fastq": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"fq": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"fasta": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"fa": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"gff": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"gff3": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"gtf": {
+		"name": "file_type_fastq",
+		"color": "sky",
+		"extensions": [
+			"fastq",
+			"fq",
+			"fasta",
+			"fa",
+			"gff",
+			"gff3",
+			"gtf"
+		]
+	},
+	"eot": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"otf": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"ttf": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"woff": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"woff2": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"font": {
+		"name": "file_type_font",
+		"color": "green",
+		"extensions": [
+			"eot",
+			"otf",
+			"ttf",
+			"woff",
+			"woff2",
+			"font"
+		]
+	},
+	"f": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"f03": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F03": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F08": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"f08": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"f77": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F77": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"f90": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F90": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"f95": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"F95": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"for": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"FOR": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"FPP": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"fpp": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"namelist": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"fortran": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"fortran-namelist": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"fixedform-fortran": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"modern-fortran": {
+		"name": "file_type_fortran",
+		"color": "red",
+		"extensions": [
+			"f",
+			"F",
+			"f03",
+			"F03",
+			"F08",
+			"f08",
+			"f77",
+			"F77",
+			"f90",
+			"F90",
+			"f95",
+			"F95",
+			"for",
+			"FOR",
+			"FPP",
+			"fpp",
+			"namelist",
+			"fortran",
+			"fortran-namelist",
+			"fixedform-fortran",
+			"modern-fortran"
+		]
+	},
+	"fs": {
+		"name": "file_type_fsharp",
+		"color": "sky",
+		"extensions": [
+			"fs",
+			"fsi",
+			"fsx",
+			"fsharp"
+		]
+	},
+	"fsi": {
+		"name": "file_type_fsharp",
+		"color": "sky",
+		"extensions": [
+			"fs",
+			"fsi",
+			"fsx",
+			"fsharp"
+		]
+	},
+	"fsx": {
+		"name": "file_type_fsharp",
+		"color": "sky",
+		"extensions": [
+			"fs",
+			"fsi",
+			"fsx",
+			"fsharp"
+		]
+	},
+	"fsharp": {
+		"name": "file_type_fsharp",
+		"color": "sky",
+		"extensions": [
+			"fs",
+			"fsi",
+			"fsx",
+			"fsharp"
+		]
+	},
+	"git": {
+		"name": "file_type_git",
+		"color": "orange",
+		"extensions": [
+			"git"
+		]
+	},
+	"go": {
+		"name": "file_type_go",
+		"color": "sky",
+		"extensions": [
+			"go"
+		]
+	},
+	"gradle": {
+		"name": "file_type_gradle",
+		"color": "cyan",
+		"extensions": [
+			"gradle"
+		]
+	},
+	"graphql": {
+		"name": "file_type_graphql",
+		"color": "pink",
+		"extensions": [
+			"graphql",
+			"graphqls",
+			"gql"
+		]
+	},
+	"graphqls": {
+		"name": "file_type_graphql",
+		"color": "pink",
+		"extensions": [
+			"graphql",
+			"graphqls",
+			"gql"
+		]
+	},
+	"gql": {
+		"name": "file_type_graphql",
+		"color": "pink",
+		"extensions": [
+			"graphql",
+			"graphqls",
+			"gql"
+		]
+	},
+	"dot": {
+		"name": "file_type_graphviz",
+		"color": "cyan",
+		"extensions": [
+			"dot"
+		]
+	},
+	"groovy": {
+		"name": "file_type_groovy",
+		"color": "cyan",
+		"extensions": [
+			"groovy"
+		]
+	},
+	"gruntfile": {
+		"name": "file_type_gruntfile",
+		"color": "orange",
+		"extensions": [
+			"gruntfile"
+		]
+	},
+	"gulpfile": {
+		"name": "file_type_gulpfile",
+		"color": "pink",
+		"extensions": [
+			"gulpfile"
+		]
+	},
+	"hack": {
+		"name": "file_type_hack",
+		"color": "yellow",
+		"extensions": [
+			"hack"
+		]
+	},
+	"haml": {
+		"name": "file_type_haml",
+		"color": "yellow",
+		"extensions": [
+			"haml"
+		]
+	},
+	"ch": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"hb": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"idu": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"ppo": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"prg": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"harbour": {
+		"name": "file_type_harbour",
+		"color": "sky",
+		"extensions": [
+			"ch",
+			"hb",
+			"idu",
+			"ppo",
+			"prg",
+			"harbour"
+		]
+	},
+	"haskell": {
+		"name": "file_type_haskell",
+		"color": "purple",
+		"extensions": [
+			"haskell"
+		]
+	},
+	"hx": {
+		"name": "file_type_haxe",
+		"color": "orange",
+		"extensions": [
+			"hx",
+			"hxsl",
+			"hscript",
+			"haxe"
+		]
+	},
+	"hxsl": {
+		"name": "file_type_haxe",
+		"color": "orange",
+		"extensions": [
+			"hx",
+			"hxsl",
+			"hscript",
+			"haxe"
+		]
+	},
+	"hscript": {
+		"name": "file_type_haxe",
+		"color": "orange",
+		"extensions": [
+			"hx",
+			"hxsl",
+			"hscript",
+			"haxe"
+		]
+	},
+	"haxe": {
+		"name": "file_type_haxe",
+		"color": "orange",
+		"extensions": [
+			"hx",
+			"hxsl",
+			"hscript",
+			"haxe"
+		]
+	},
+	"plain": {
+		"name": "file_type_html",
+		"color": "orange",
+		"extensions": [
+			"plain"
+		]
+	},
+	"http": {
+		"name": "file_type_http",
+		"color": "purple",
+		"extensions": [
+			"http",
+			"http-request-response"
+		]
+	},
+	"http-request-response": {
+		"name": "file_type_http",
+		"color": "purple",
+		"extensions": [
+			"http",
+			"http-request-response"
+		]
+	},
+	"bmp": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"emf": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"gif": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"jp2": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"jpeg": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"jpg": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"png": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"pnm": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"ppm": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"tga": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"tif": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"tiff": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"webp": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"xbm": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"xpm": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"image": {
+		"name": "file_type_image",
+		"color": "green",
+		"extensions": [
+			"bmp",
+			"emf",
+			"gif",
+			"jp2",
+			"jpeg",
+			"jpg",
+			"png",
+			"pnm",
+			"ppm",
+			"tga",
+			"tif",
+			"tiff",
+			"webp",
+			"xbm",
+			"xpm",
+			"image"
+		]
+	},
+	"indd": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"indl": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"indt": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"indb": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"inx": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"idml": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"indesign": {
+		"name": "file_type_indesign",
+		"color": "pink",
+		"extensions": [
+			"indd",
+			"indl",
+			"indt",
+			"indb",
+			"inx",
+			"idml",
+			"indesign"
+		]
+	},
+	"java": {
+		"name": "file_type_java",
+		"color": "red",
+		"extensions": [
+			"java"
+		]
+	},
+	"Jenkinsfile": {
+		"name": "file_type_jenkins",
+		"color": "cyan",
+		"extensions": [
+			"Jenkinsfile",
+			"jenkins"
+		]
+	},
+	"jenkins": {
+		"name": "file_type_jenkins",
+		"color": "cyan",
+		"extensions": [
+			"Jenkinsfile",
+			"jenkins"
+		]
+	},
+	"cjs": {
+		"name": "file_type_jest",
+		"color": "red",
+		"extensions": [
+			"cjs",
+			"mjs",
+			"cts",
+			"mts",
+			"jest"
+		]
+	},
+	"mjs": {
+		"name": "file_type_jest",
+		"color": "red",
+		"extensions": [
+			"cjs",
+			"mjs",
+			"cts",
+			"mts",
+			"jest"
+		]
+	},
+	"cts": {
+		"name": "file_type_jest",
+		"color": "red",
+		"extensions": [
+			"cjs",
+			"mjs",
+			"cts",
+			"mts",
+			"jest"
+		]
+	},
+	"mts": {
+		"name": "file_type_jest",
+		"color": "red",
+		"extensions": [
+			"cjs",
+			"mjs",
+			"cts",
+			"mts",
+			"jest"
+		]
+	},
+	"jest": {
+		"name": "file_type_jest",
+		"color": "red",
+		"extensions": [
+			"cjs",
+			"mjs",
+			"cts",
+			"mts",
+			"jest"
+		]
+	},
+	"js": {
+		"name": "file_type_js",
+		"color": "yellow",
+		"extensions": [
+			"js"
+		]
+	},
+	"json": {
+		"name": "file_type_json",
+		"color": "green",
+		"extensions": [
+			"json"
+		]
+	},
+	"jsp": {
+		"name": "file_type_jsp",
+		"color": "purple",
+		"extensions": [
+			"jsp"
+		]
+	},
+	"jsx": {
+		"name": "file_type_jsx",
+		"color": "blue",
+		"extensions": [
+			"jsx",
+			"react"
+		]
+	},
+	"react": {
+		"name": "file_type_jsx",
+		"color": "blue",
+		"extensions": [
+			"jsx",
+			"react"
+		]
+	},
+	"jl": {
+		"name": "file_type_julia",
+		"color": "purple",
+		"extensions": [
+			"jl",
+			"julia"
+		]
+	},
+	"julia": {
+		"name": "file_type_julia",
+		"color": "purple",
+		"extensions": [
+			"jl",
+			"julia"
+		]
+	},
+	"kt": {
+		"name": "file_type_kotlin",
+		"color": "blue",
+		"extensions": [
+			"kt",
+			"kts",
+			"Kotlin"
+		]
+	},
+	"kts": {
+		"name": "file_type_kotlin",
+		"color": "blue",
+		"extensions": [
+			"kt",
+			"kts",
+			"Kotlin"
+		]
+	},
+	"Kotlin": {
+		"name": "file_type_kotlin",
+		"color": "blue",
+		"extensions": [
+			"kt",
+			"kts",
+			"Kotlin"
+		]
+	},
+	"ksp": {
+		"name": "file_type_ksp",
+		"color": "graphite",
+		"extensions": [
+			"ksp"
+		]
+	},
+	"less": {
+		"name": "file_type_less",
+		"color": "blue",
+		"extensions": [
+			"less"
+		]
+	},
+	"copying": {
+		"name": "file_type_license",
+		"color": "cyan",
+		"extensions": [
+			"copying",
+			"copyright",
+			"license"
+		]
+	},
+	"copyright": {
+		"name": "file_type_license",
+		"color": "cyan",
+		"extensions": [
+			"copying",
+			"copyright",
+			"license"
+		]
+	},
+	"license": {
+		"name": "file_type_license",
+		"color": "cyan",
+		"extensions": [
+			"copying",
+			"copyright",
+			"license"
+		]
+	},
+	"liquid": {
+		"name": "file_type_liquid",
+		"color": "green",
+		"extensions": [
+			"liquid"
+		]
+	},
+	"lisp": {
+		"name": "file_type_lisp",
+		"color": "red",
+		"extensions": [
+			"lisp",
+			"autolisp"
+		]
+	},
+	"autolisp": {
+		"name": "file_type_lisp",
+		"color": "red",
+		"extensions": [
+			"lisp",
+			"autolisp"
+		]
+	},
+	"lock": {
+		"name": "file_type_lock",
+		"color": "red",
+		"extensions": [
+			"lock"
+		]
+	},
+	"log": {
+		"name": "file_type_log",
+		"color": "graphite",
+		"extensions": [
+			"log"
+		]
+	},
+	"lsl": {
+		"name": "file_type_lsl",
+		"color": "cyan",
+		"extensions": [
+			"lsl",
+			"ossl"
+		]
+	},
+	"ossl": {
+		"name": "file_type_lsl",
+		"color": "cyan",
+		"extensions": [
+			"lsl",
+			"ossl"
+		]
+	},
+	"lua": {
+		"name": "file_type_lua",
+		"color": "blue",
+		"extensions": [
+			"lua"
+		]
+	},
+	"markdown": {
+		"name": "file_type_markdown",
+		"color": "graphite",
+		"extensions": [
+			"markdown"
+		]
+	},
+	"mdx": {
+		"name": "file_type_markdownx",
+		"color": "cyan",
+		"extensions": [
+			"mdx"
+		]
+	},
+	"matlab": {
+		"name": "file_type_matlab",
+		"color": "orange",
+		"extensions": [
+			"matlab"
+		]
+	},
+	"mel": {
+		"name": "file_type_maya",
+		"color": "cyan",
+		"extensions": [
+			"mel"
+		]
+	},
+	"build": {
+		"name": "file_type_meson",
+		"color": "blue",
+		"extensions": [
+			"build",
+			"meson"
+		]
+	},
+	"meson": {
+		"name": "file_type_meson",
+		"color": "blue",
+		"extensions": [
+			"build",
+			"meson"
+		]
+	},
+	"mint": {
+		"name": "file_type_mint",
+		"color": "green",
+		"extensions": [
+			"mint"
+		]
+	},
+	"mp3tag": {
+		"name": "file_type_mp3tag",
+		"color": "yellow",
+		"extensions": [
+			"mp3tag"
+		]
+	},
+	"hgn": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hjs": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"mst": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"mu": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"mustache": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"handlebars": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hbr": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hbrs": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hbs": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hdbs": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"rac": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"stache": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"hamlbars": {
+		"name": "file_type_mustache",
+		"color": "orange",
+		"extensions": [
+			"hgn",
+			"hjs",
+			"mst",
+			"mu",
+			"mustache",
+			"handlebars",
+			"hbr",
+			"hbrs",
+			"hbs",
+			"hdbs",
+			"rac",
+			"stache",
+			"hamlbars"
+		]
+	},
+	"types": {
+		"name": "file_type_nginx",
+		"color": "green",
+		"extensions": [
+			"types",
+			"fastcgi_params",
+			"scgi_params",
+			"uwsgi_params",
+			"nginx"
+		]
+	},
+	"fastcgi_params": {
+		"name": "file_type_nginx",
+		"color": "green",
+		"extensions": [
+			"types",
+			"fastcgi_params",
+			"scgi_params",
+			"uwsgi_params",
+			"nginx"
+		]
+	},
+	"scgi_params": {
+		"name": "file_type_nginx",
+		"color": "green",
+		"extensions": [
+			"types",
+			"fastcgi_params",
+			"scgi_params",
+			"uwsgi_params",
+			"nginx"
+		]
+	},
+	"uwsgi_params": {
+		"name": "file_type_nginx",
+		"color": "green",
+		"extensions": [
+			"types",
+			"fastcgi_params",
+			"scgi_params",
+			"uwsgi_params",
+			"nginx"
+		]
+	},
+	"nginx": {
+		"name": "file_type_nginx",
+		"color": "green",
+		"extensions": [
+			"types",
+			"fastcgi_params",
+			"scgi_params",
+			"uwsgi_params",
+			"nginx"
+		]
+	},
+	"nim": {
+		"name": "file_type_nim",
+		"color": "yellow",
+		"extensions": [
+			"nim",
+			"nims",
+			"nimble",
+			"nimf",
+			"nim_filter"
+		]
+	},
+	"nims": {
+		"name": "file_type_nim",
+		"color": "yellow",
+		"extensions": [
+			"nim",
+			"nims",
+			"nimble",
+			"nimf",
+			"nim_filter"
+		]
+	},
+	"nimble": {
+		"name": "file_type_nim",
+		"color": "yellow",
+		"extensions": [
+			"nim",
+			"nims",
+			"nimble",
+			"nimf",
+			"nim_filter"
+		]
+	},
+	"nimf": {
+		"name": "file_type_nim",
+		"color": "yellow",
+		"extensions": [
+			"nim",
+			"nims",
+			"nimble",
+			"nimf",
+			"nim_filter"
+		]
+	},
+	"nim_filter": {
+		"name": "file_type_nim",
+		"color": "yellow",
+		"extensions": [
+			"nim",
+			"nims",
+			"nimble",
+			"nimf",
+			"nim_filter"
+		]
+	},
+	"node-version": {
+		"name": "file_type_nodejs",
+		"color": "green",
+		"extensions": [
+			"node-version",
+			"nvmrc",
+			"nodejs"
+		]
+	},
+	"nvmrc": {
+		"name": "file_type_nodejs",
+		"color": "green",
+		"extensions": [
+			"node-version",
+			"nvmrc",
+			"nodejs"
+		]
+	},
+	"nodejs": {
+		"name": "file_type_nodejs",
+		"color": "green",
+		"extensions": [
+			"node-version",
+			"nvmrc",
+			"nodejs"
+		]
+	},
+	"note": {
+		"name": "file_type_note",
+		"color": "green",
+		"extensions": [
+			"note"
+		]
+	},
+	"npmignore": {
+		"name": "file_type_npm",
+		"color": "red",
+		"extensions": [
+			"npmignore",
+			"npmrc",
+			"npm"
+		]
+	},
+	"npmrc": {
+		"name": "file_type_npm",
+		"color": "red",
+		"extensions": [
+			"npmignore",
+			"npmrc",
+			"npm"
+		]
+	},
+	"npm": {
+		"name": "file_type_npm",
+		"color": "red",
+		"extensions": [
+			"npmignore",
+			"npmrc",
+			"npm"
+		]
+	},
+	"nsi": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"nsh": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"bnsi": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"bnsh": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"nsdincgit": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"nsis": {
+		"name": "file_type_nsis",
+		"color": "purple",
+		"extensions": [
+			"nsi",
+			"nsh",
+			"bnsi",
+			"bnsh",
+			"nsdincgit",
+			"nsis"
+		]
+	},
+	"ocaml": {
+		"name": "file_type_ocaml",
+		"color": "yellow",
+		"extensions": [
+			"ocaml",
+			"ocamllex",
+			"ocamlyacc"
+		]
+	},
+	"ocamllex": {
+		"name": "file_type_ocaml",
+		"color": "yellow",
+		"extensions": [
+			"ocaml",
+			"ocamllex",
+			"ocamlyacc"
+		]
+	},
+	"ocamlyacc": {
+		"name": "file_type_ocaml",
+		"color": "yellow",
+		"extensions": [
+			"ocaml",
+			"ocamllex",
+			"ocamlyacc"
+		]
+	},
+	"one": {
+		"name": "file_type_onenote",
+		"color": "purple",
+		"extensions": [
+			"one",
+			"onenote"
+		]
+	},
+	"onenote": {
+		"name": "file_type_onenote",
+		"color": "purple",
+		"extensions": [
+			"one",
+			"onenote"
+		]
+	},
+	"sp": {
+		"name": "file_type_pawn",
+		"color": "orange",
+		"extensions": [
+			"sp"
+		]
+	},
+	"pcb": {
+		"name": "file_type_pcb",
+		"color": "cyan",
+		"extensions": [
+			"pcb"
+		]
+	},
+	"pdf": {
+		"name": "file_type_pdf",
+		"color": "red",
+		"extensions": [
+			"pdf"
+		]
+	},
+	"perl": {
+		"name": "file_type_perl",
+		"color": "graphite",
+		"extensions": [
+			"perl"
+		]
+	},
+	"php": {
+		"name": "file_type_php",
+		"color": "blue",
+		"extensions": [
+			"php"
+		]
+	},
+	"plist": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"hidden-tmLanguage": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"hidden-tmTheme": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"hidden-tmSnippet": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"hidden-tmPreferences": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"tmLanguage": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"tmTheme": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"tmSnippet": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"tmPreferences": {
+		"name": "file_type_plist",
+		"color": "cyan",
+		"extensions": [
+			"plist",
+			"hidden-tmLanguage",
+			"hidden-tmTheme",
+			"hidden-tmSnippet",
+			"hidden-tmPreferences",
+			"tmLanguage",
+			"tmTheme",
+			"tmSnippet",
+			"tmPreferences"
+		]
+	},
+	"pcss": {
+		"name": "file_type_postcss",
+		"color": "red",
+		"extensions": [
+			"pcss",
+			"postcss"
+		]
+	},
+	"postcss": {
+		"name": "file_type_postcss",
+		"color": "red",
+		"extensions": [
+			"pcss",
+			"postcss"
+		]
+	},
+	"ppt": {
+		"name": "file_type_powerpoint",
+		"color": "orange",
+		"extensions": [
+			"ppt",
+			"pptx",
+			"pps",
+			"ppsx",
+			"powerpoint"
+		]
+	},
+	"pptx": {
+		"name": "file_type_powerpoint",
+		"color": "orange",
+		"extensions": [
+			"ppt",
+			"pptx",
+			"pps",
+			"ppsx",
+			"powerpoint"
+		]
+	},
+	"pps": {
+		"name": "file_type_powerpoint",
+		"color": "orange",
+		"extensions": [
+			"ppt",
+			"pptx",
+			"pps",
+			"ppsx",
+			"powerpoint"
+		]
+	},
+	"ppsx": {
+		"name": "file_type_powerpoint",
+		"color": "orange",
+		"extensions": [
+			"ppt",
+			"pptx",
+			"pps",
+			"ppsx",
+			"powerpoint"
+		]
+	},
+	"powerpoint": {
+		"name": "file_type_powerpoint",
+		"color": "orange",
+		"extensions": [
+			"ppt",
+			"pptx",
+			"pps",
+			"ppsx",
+			"powerpoint"
+		]
+	},
+	"ps1": {
+		"name": "file_type_powershell",
+		"color": "blue",
+		"extensions": [
+			"ps1",
+			"psm1",
+			"psd1",
+			"powershell"
+		]
+	},
+	"psm1": {
+		"name": "file_type_powershell",
+		"color": "blue",
+		"extensions": [
+			"ps1",
+			"psm1",
+			"psd1",
+			"powershell"
+		]
+	},
+	"psd1": {
+		"name": "file_type_powershell",
+		"color": "blue",
+		"extensions": [
+			"ps1",
+			"psm1",
+			"psd1",
+			"powershell"
+		]
+	},
+	"powershell": {
+		"name": "file_type_powershell",
+		"color": "blue",
+		"extensions": [
+			"ps1",
+			"psm1",
+			"psd1",
+			"powershell"
+		]
+	},
+	"prel": {
+		"name": "file_type_premiere",
+		"color": "purple",
+		"extensions": [
+			"prel",
+			"prproj",
+			"psq",
+			"premiere"
+		]
+	},
+	"prproj": {
+		"name": "file_type_premiere",
+		"color": "purple",
+		"extensions": [
+			"prel",
+			"prproj",
+			"psq",
+			"premiere"
+		]
+	},
+	"psq": {
+		"name": "file_type_premiere",
+		"color": "purple",
+		"extensions": [
+			"prel",
+			"prproj",
+			"psq",
+			"premiere"
+		]
+	},
+	"premiere": {
+		"name": "file_type_premiere",
+		"color": "purple",
+		"extensions": [
+			"prel",
+			"prproj",
+			"psq",
+			"premiere"
+		]
+	},
+	"prisma": {
+		"name": "file_type_prisma",
+		"color": "graphite",
+		"extensions": [
+			"prisma"
+		]
+	},
+	"Procfile": {
+		"name": "file_type_procfile",
+		"color": "purple",
+		"extensions": [
+			"Procfile",
+			"buildpacks",
+			"procfile"
+		]
+	},
+	"buildpacks": {
+		"name": "file_type_procfile",
+		"color": "purple",
+		"extensions": [
+			"Procfile",
+			"buildpacks",
+			"procfile"
+		]
+	},
+	"procfile": {
+		"name": "file_type_procfile",
+		"color": "purple",
+		"extensions": [
+			"Procfile",
+			"buildpacks",
+			"procfile"
+		]
+	},
+	"proto": {
+		"name": "file_type_protobuf",
+		"color": "graphite",
+		"extensions": [
+			"proto",
+			"protodevel"
+		]
+	},
+	"protodevel": {
+		"name": "file_type_protobuf",
+		"color": "graphite",
+		"extensions": [
+			"proto",
+			"protodevel"
+		]
+	},
+	"psb": {
+		"name": "file_type_psd",
+		"color": "sky",
+		"extensions": [
+			"psb",
+			"psd",
+			"ps"
+		]
+	},
+	"psd": {
+		"name": "file_type_psd",
+		"color": "sky",
+		"extensions": [
+			"psb",
+			"psd",
+			"ps"
+		]
+	},
+	"ps": {
+		"name": "file_type_psd",
+		"color": "sky",
+		"extensions": [
+			"psb",
+			"psd",
+			"ps"
+		]
+	},
+	"jade": {
+		"name": "file_type_pug",
+		"color": "yellow",
+		"extensions": [
+			"jade",
+			"pug"
+		]
+	},
+	"pug": {
+		"name": "file_type_pug",
+		"color": "yellow",
+		"extensions": [
+			"jade",
+			"pug"
+		]
+	},
+	"pp": {
+		"name": "file_type_puppet",
+		"color": "purple",
+		"extensions": [
+			"pp",
+			"epp",
+			"puppet"
+		]
+	},
+	"epp": {
+		"name": "file_type_puppet",
+		"color": "purple",
+		"extensions": [
+			"pp",
+			"epp",
+			"puppet"
+		]
+	},
+	"puppet": {
+		"name": "file_type_puppet",
+		"color": "purple",
+		"extensions": [
+			"pp",
+			"epp",
+			"puppet"
+		]
+	},
+	"pb": {
+		"name": "file_type_purebasic",
+		"color": "graphite",
+		"extensions": [
+			"pb",
+			"pbi",
+			"purebasic"
+		]
+	},
+	"pbi": {
+		"name": "file_type_purebasic",
+		"color": "graphite",
+		"extensions": [
+			"pb",
+			"pbi",
+			"purebasic"
+		]
+	},
+	"purebasic": {
+		"name": "file_type_purebasic",
+		"color": "graphite",
+		"extensions": [
+			"pb",
+			"pbi",
+			"purebasic"
+		]
+	},
+	"python": {
+		"name": "file_type_python",
+		"color": "yellow",
+		"extensions": [
+			"python"
+		]
+	},
+	"qml": {
+		"name": "file_type_qt",
+		"color": "green",
+		"extensions": [
+			"qml",
+			"qmlproject",
+			"user"
+		]
+	},
+	"qmlproject": {
+		"name": "file_type_qt",
+		"color": "green",
+		"extensions": [
+			"qml",
+			"qmlproject",
+			"user"
+		]
+	},
+	"user": {
+		"name": "file_type_qt",
+		"color": "green",
+		"extensions": [
+			"qml",
+			"qmlproject",
+			"user"
+		]
+	},
+	"r": {
+		"name": "file_type_r",
+		"color": "blue",
+		"extensions": [
+			"r"
+		]
+	},
+	"rails": {
+		"name": "file_type_rails",
+		"color": "red",
+		"extensions": [
+			"rails"
+		]
+	},
+	"rsh": {
+		"name": "file_type_reach",
+		"color": "green",
+		"extensions": [
+			"rsh"
+		]
+	},
+	"reg": {
+		"name": "file_type_registry",
+		"color": "sky",
+		"extensions": [
+			"reg"
+		]
+	},
+	"restructuredtext": {
+		"name": "file_type_restructuredtext",
+		"color": "sky",
+		"extensions": [
+			"restructuredtext"
+		]
+	},
+	"riot": {
+		"name": "file_type_riot",
+		"color": "red",
+		"extensions": [
+			"riot"
+		]
+	},
+	"ruby": {
+		"name": "file_type_ruby",
+		"color": "red",
+		"extensions": [
+			"ruby"
+		]
+	},
+	"rust": {
+		"name": "file_type_rust",
+		"color": "sky",
+		"extensions": [
+			"rust"
+		]
+	},
+	"sass": {
+		"name": "file_type_sass",
+		"color": "pink",
+		"extensions": [
+			"sass"
+		]
+	},
+	"scala": {
+		"name": "file_type_scala",
+		"color": "red",
+		"extensions": [
+			"scala"
+		]
+	},
+	"ms": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"rkt": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"sc": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"sch": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"scm": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"ss": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"scheme": {
+		"name": "file_type_scheme",
+		"color": "graphite",
+		"extensions": [
+			"ms",
+			"rkt",
+			"sc",
+			"sch",
+			"scm",
+			"ss",
+			"scheme"
+		]
+	},
+	"scss": {
+		"name": "file_type_scss",
+		"color": "pink",
+		"extensions": [
+			"scss"
+		]
+	},
+	"fmt": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"cfg": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"ini": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"inf": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"lng": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"pbk": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"url": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"conf": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"config": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"Doxyfile": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"DoxyfileTemplate": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"version": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"aliases": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"rfc": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"base": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"inc": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"include": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"spec": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"dist": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"sample": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"example": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"test": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"testing": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"dev": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"development": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"prod": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"production": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"local": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"staging": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"defaults": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"envrc": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"flaskenv": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"env": {
+		"name": "file_type_settings",
+		"color": "graphite",
+		"extensions": [
+			"fmt",
+			"cfg",
+			"ini",
+			"inf",
+			"lng",
+			"pbk",
+			"url",
+			"conf",
+			"config",
+			"Doxyfile",
+			"DoxyfileTemplate",
+			"version",
+			"aliases",
+			"rfc",
+			"base",
+			"inc",
+			"include",
+			"spec",
+			"dist",
+			"sample",
+			"example",
+			"test",
+			"testing",
+			"dev",
+			"development",
+			"prod",
+			"production",
+			"local",
+			"staging",
+			"default",
+			"defaults",
+			"envrc",
+			"flaskenv",
+			"env"
+		]
+	},
+	"fish": {
+		"name": "file_type_shell",
+		"color": "green",
+		"extensions": [
+			"fish",
+			"shell"
+		]
+	},
+	"shell": {
+		"name": "file_type_shell",
+		"color": "green",
+		"extensions": [
+			"fish",
+			"shell"
+		]
+	},
+	"sketch": {
+		"name": "file_type_sketch",
+		"color": "purple",
+		"extensions": [
+			"sketch"
+		]
+	},
+	"slim": {
+		"name": "file_type_slim",
+		"color": "cyan",
+		"extensions": [
+			"slim",
+			"skim"
+		]
+	},
+	"skim": {
+		"name": "file_type_slim",
+		"color": "cyan",
+		"extensions": [
+			"slim",
+			"skim"
+		]
+	},
+	"sql": {
+		"name": "file_type_sql",
+		"color": "blue",
+		"extensions": [
+			"sql"
+		]
+	},
+	"do": {
+		"name": "file_type_stata",
+		"color": "sky",
+		"extensions": [
+			"do",
+			"ado",
+			"stata"
+		]
+	},
+	"ado": {
+		"name": "file_type_stata",
+		"color": "sky",
+		"extensions": [
+			"do",
+			"ado",
+			"stata"
+		]
+	},
+	"stata": {
+		"name": "file_type_stata",
+		"color": "sky",
+		"extensions": [
+			"do",
+			"ado",
+			"stata"
+		]
+	},
+	"stylelintrc": {
+		"name": "file_type_stylelint",
+		"color": "graphite",
+		"extensions": [
+			"stylelintrc",
+			"stylelintignore",
+			"stylelint"
+		]
+	},
+	"stylelintignore": {
+		"name": "file_type_stylelint",
+		"color": "graphite",
+		"extensions": [
+			"stylelintrc",
+			"stylelintignore",
+			"stylelint"
+		]
+	},
+	"stylelint": {
+		"name": "file_type_stylelint",
+		"color": "graphite",
+		"extensions": [
+			"stylelintrc",
+			"stylelintignore",
+			"stylelint"
+		]
+	},
+	"styl": {
+		"name": "file_type_stylus",
+		"color": "green",
+		"extensions": [
+			"styl",
+			"stylus"
+		]
+	},
+	"stylus": {
+		"name": "file_type_stylus",
+		"color": "green",
+		"extensions": [
+			"styl",
+			"stylus"
+		]
+	},
+	"no-sublime-package": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-project": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"hidden-color-scheme": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"hidden-theme": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-build": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-color-scheme": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-commands": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-completions": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-keymap": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-macro": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-menu": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-mousemap": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-settings": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-theme": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-workspace": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-snippet": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime-syntax": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"sublime": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"snippet": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"syntax": {
+		"name": "file_type_sublime",
+		"color": "orange",
+		"extensions": [
+			"no-sublime-package",
+			"sublime-project",
+			"hidden-color-scheme",
+			"hidden-theme",
+			"sublime-build",
+			"sublime-color-scheme",
+			"sublime-commands",
+			"sublime-completions",
+			"sublime-keymap",
+			"sublime-macro",
+			"sublime-menu",
+			"sublime-mousemap",
+			"sublime-settings",
+			"sublime-theme",
+			"sublime-workspace",
+			"sublime-snippet",
+			"sublime-syntax",
+			"sublime",
+			"snippet",
+			"syntax"
+		]
+	},
+	"svlt": {
+		"name": "file_type_svelte",
+		"color": "orange",
+		"extensions": [
+			"svlt",
+			"svelte"
+		]
+	},
+	"svelte": {
+		"name": "file_type_svelte",
+		"color": "orange",
+		"extensions": [
+			"svlt",
+			"svelte"
+		]
+	},
+	"svg": {
+		"name": "file_type_svg",
+		"color": "orange",
+		"extensions": [
+			"svg"
+		]
+	},
+	"swift": {
+		"name": "file_type_swift",
+		"color": "orange",
+		"extensions": [
+			"swift"
+		]
+	},
+	"Taskfile": {
+		"name": "file_type_taskfile",
+		"color": "cyan",
+		"extensions": [
+			"Taskfile",
+			"taskfile"
+		]
+	},
+	"taskfile": {
+		"name": "file_type_taskfile",
+		"color": "cyan",
+		"extensions": [
+			"Taskfile",
+			"taskfile"
+		]
+	},
+	"tailwind": {
+		"name": "file_type_tailwind",
+		"color": "cyan",
+		"extensions": [
+			"tailwind"
+		]
+	},
+	"tcl": {
+		"name": "file_type_tcl",
+		"color": "yellow",
+		"extensions": [
+			"tcl"
+		]
+	},
+	"tern-project": {
+		"name": "file_type_tern",
+		"color": "graphite",
+		"extensions": [
+			"tern-project",
+			"tern-config",
+			"tern"
+		]
+	},
+	"tern-config": {
+		"name": "file_type_tern",
+		"color": "graphite",
+		"extensions": [
+			"tern-project",
+			"tern-config",
+			"tern"
+		]
+	},
+	"tern": {
+		"name": "file_type_tern",
+		"color": "graphite",
+		"extensions": [
+			"tern-project",
+			"tern-config",
+			"tern"
+		]
+	},
+	"tfstate": {
+		"name": "file_type_terraform",
+		"color": "purple",
+		"extensions": [
+			"tfstate",
+			"tf",
+			"tfvars",
+			"hcl",
+			"terraform"
+		]
+	},
+	"tf": {
+		"name": "file_type_terraform",
+		"color": "purple",
+		"extensions": [
+			"tfstate",
+			"tf",
+			"tfvars",
+			"hcl",
+			"terraform"
+		]
+	},
+	"tfvars": {
+		"name": "file_type_terraform",
+		"color": "purple",
+		"extensions": [
+			"tfstate",
+			"tf",
+			"tfvars",
+			"hcl",
+			"terraform"
+		]
+	},
+	"hcl": {
+		"name": "file_type_terraform",
+		"color": "purple",
+		"extensions": [
+			"tfstate",
+			"tf",
+			"tfvars",
+			"hcl",
+			"terraform"
+		]
+	},
+	"terraform": {
+		"name": "file_type_terraform",
+		"color": "purple",
+		"extensions": [
+			"tfstate",
+			"tf",
+			"tfvars",
+			"hcl",
+			"terraform"
+		]
+	},
+	"bibtex": {
+		"name": "file_type_tex",
+		"color": "blue",
+		"extensions": [
+			"bibtex",
+			"biblatex",
+			"tex",
+			"latex"
+		]
+	},
+	"biblatex": {
+		"name": "file_type_tex",
+		"color": "blue",
+		"extensions": [
+			"bibtex",
+			"biblatex",
+			"tex",
+			"latex"
+		]
+	},
+	"tex": {
+		"name": "file_type_tex",
+		"color": "blue",
+		"extensions": [
+			"bibtex",
+			"biblatex",
+			"tex",
+			"latex"
+		]
+	},
+	"latex": {
+		"name": "file_type_tex",
+		"color": "blue",
+		"extensions": [
+			"bibtex",
+			"biblatex",
+			"tex",
+			"latex"
+		]
+	},
+	"txt": {
+		"name": "file_type_text",
+		"color": "yellow",
+		"extensions": [
+			"txt",
+			"readme"
+		]
+	},
+	"readme": {
+		"name": "file_type_text",
+		"color": "yellow",
+		"extensions": [
+			"txt",
+			"readme"
+		]
+	},
+	"textile": {
+		"name": "file_type_textile",
+		"color": "pink",
+		"extensions": [
+			"textile"
+		]
+	},
+	"todo": {
+		"name": "file_type_todo",
+		"color": "green",
+		"extensions": [
+			"todo",
+			"tasks"
+		]
+	},
+	"tasks": {
+		"name": "file_type_todo",
+		"color": "green",
+		"extensions": [
+			"todo",
+			"tasks"
+		]
+	},
+	"toml": {
+		"name": "file_type_toml",
+		"color": "cyan",
+		"extensions": [
+			"toml",
+			"tml",
+			"Pipfile"
+		]
+	},
+	"tml": {
+		"name": "file_type_toml",
+		"color": "cyan",
+		"extensions": [
+			"toml",
+			"tml",
+			"Pipfile"
+		]
+	},
+	"Pipfile": {
+		"name": "file_type_toml",
+		"color": "cyan",
+		"extensions": [
+			"toml",
+			"tml",
+			"Pipfile"
+		]
+	},
+	"tsx": {
+		"name": "file_type_tsx",
+		"color": "sky",
+		"extensions": [
+			"tsx"
+		]
+	},
+	"twig": {
+		"name": "file_type_twig",
+		"color": "green",
+		"extensions": [
+			"twig"
+		]
+	},
+	"ts": {
+		"name": "file_type_typescript",
+		"color": "sky",
+		"extensions": [
+			"ts",
+			"typescript"
+		]
+	},
+	"typescript": {
+		"name": "file_type_typescript",
+		"color": "sky",
+		"extensions": [
+			"ts",
+			"typescript"
+		]
+	},
+	"cginc": {
+		"name": "file_type_unity3d",
+		"color": "sky",
+		"extensions": [
+			"cginc",
+			"shader",
+			"unity3d"
+		]
+	},
+	"shader": {
+		"name": "file_type_unity3d",
+		"color": "sky",
+		"extensions": [
+			"cginc",
+			"shader",
+			"unity3d"
+		]
+	},
+	"unity3d": {
+		"name": "file_type_unity3d",
+		"color": "sky",
+		"extensions": [
+			"cginc",
+			"shader",
+			"unity3d"
+		]
+	},
+	"v": {
+		"name": "file_type_v",
+		"color": "cyan",
+		"extensions": [
+			"v",
+			"vlang"
+		]
+	},
+	"vlang": {
+		"name": "file_type_v",
+		"color": "cyan",
+		"extensions": [
+			"v",
+			"vlang"
+		]
+	},
+	"gs": {
+		"name": "file_type_vala",
+		"color": "sky",
+		"extensions": [
+			"gs",
+			"vala",
+			"vapi",
+			"genie"
+		]
+	},
+	"vala": {
+		"name": "file_type_vala",
+		"color": "sky",
+		"extensions": [
+			"gs",
+			"vala",
+			"vapi",
+			"genie"
+		]
+	},
+	"vapi": {
+		"name": "file_type_vala",
+		"color": "sky",
+		"extensions": [
+			"gs",
+			"vala",
+			"vapi",
+			"genie"
+		]
+	},
+	"genie": {
+		"name": "file_type_vala",
+		"color": "sky",
+		"extensions": [
+			"gs",
+			"vala",
+			"vapi",
+			"genie"
+		]
+	},
+	"vhd": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"vhdl": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"vho": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"vht": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"sv": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"svh": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"vh": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"V": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"systemverilog": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"verilog": {
+		"name": "file_type_vhdl",
+		"color": "blue",
+		"extensions": [
+			"vhd",
+			"vhdl",
+			"vho",
+			"vht",
+			"sv",
+			"svh",
+			"vh",
+			"V",
+			"systemverilog",
+			"verilog"
+		]
+	},
+	"avi": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"mp4": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"mov": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"mkv": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"h264": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"webm": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"wmv": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"ogv": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"ogg": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"3gp": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"m4v": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"mpg": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"mpeg": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"3gpp": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"ogm": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"video": {
+		"name": "file_type_video",
+		"color": "purple",
+		"extensions": [
+			"avi",
+			"mp4",
+			"mov",
+			"mkv",
+			"h264",
+			"webm",
+			"wmv",
+			"ogv",
+			"ogg",
+			"3gp",
+			"m4v",
+			"mpg",
+			"mpeg",
+			"3gpp",
+			"ogm",
+			"video"
+		]
+	},
+	"vim": {
+		"name": "file_type_vim",
+		"color": "green",
+		"extensions": [
+			"vim",
+			"vimrc",
+			"viml"
+		]
+	},
+	"vimrc": {
+		"name": "file_type_vim",
+		"color": "green",
+		"extensions": [
+			"vim",
+			"vimrc",
+			"viml"
+		]
+	},
+	"viml": {
+		"name": "file_type_vim",
+		"color": "green",
+		"extensions": [
+			"vim",
+			"vimrc",
+			"viml"
+		]
+	},
+	"coverage": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"idl": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"sln": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"csproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"fsproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"shproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"sqlproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"vbproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"vcxproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"vsproj": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"props": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"resx": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"ruleset": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"settings": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"targets": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"wxl": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"wxs": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"xaml": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"visualstudio": {
+		"name": "file_type_visualstudio",
+		"color": "purple",
+		"extensions": [
+			"coverage",
+			"idl",
+			"sln",
+			"csproj",
+			"fsproj",
+			"shproj",
+			"sqlproj",
+			"vbproj",
+			"vcxproj",
+			"vsproj",
+			"props",
+			"resx",
+			"ruleset",
+			"settings",
+			"targets",
+			"wxl",
+			"wxs",
+			"xaml",
+			"visualstudio"
+		]
+	},
+	"vue": {
+		"name": "file_type_vue",
+		"color": "cyan",
+		"extensions": [
+			"vue"
+		]
+	},
+	"webpack": {
+		"name": "file_type_webpack",
+		"color": "blue",
+		"extensions": [
+			"webpack"
+		]
+	},
+	"dosbatch": {
+		"name": "file_type_windows",
+		"color": "sky",
+		"extensions": [
+			"dosbatch"
+		]
+	},
+	"doc": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"docx": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"docm": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"docxml": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"dotm": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"dotx": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"wri": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"word": {
+		"name": "file_type_word",
+		"color": "blue",
+		"extensions": [
+			"doc",
+			"docx",
+			"docm",
+			"docxml",
+			"dotm",
+			"dotx",
+			"wri",
+			"word"
+		]
+	},
+	"xsd": {
+		"name": "file_type_xsl",
+		"color": "sky",
+		"extensions": [
+			"xsd",
+			"xsl",
+			"xslt"
+		]
+	},
+	"xsl": {
+		"name": "file_type_xsl",
+		"color": "sky",
+		"extensions": [
+			"xsd",
+			"xsl",
+			"xslt"
+		]
+	},
+	"xslt": {
+		"name": "file_type_xsl",
+		"color": "sky",
+		"extensions": [
+			"xsd",
+			"xsl",
+			"xslt"
+		]
+	},
+	"yaml": {
+		"name": "file_type_yaml",
+		"color": "yellow",
+		"extensions": [
+			"yaml",
+			"yml"
+		]
+	},
+	"yml": {
+		"name": "file_type_yaml",
+		"color": "yellow",
+		"extensions": [
+			"yaml",
+			"yml"
+		]
+	},
+	"yarn": {
+		"name": "file_type_yarn",
+		"color": "blue",
+		"extensions": [
+			"yarn"
+		]
+	},
+	"zig": {
+		"name": "file_type_zig",
+		"color": "yellow",
+		"extensions": [
+			"zig"
+		]
+	}
+}
